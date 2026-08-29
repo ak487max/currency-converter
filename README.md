@@ -5,7 +5,7 @@ A responsive currency converter built using HTML, CSS, and JavaScript. It uses a
 
 ## 🌐 Live Demo
 
-[View Live Demo](https://vercel.com/self-0114/currency-converter-9c4i/22QM7tfp8n2uyhnV2M3krogYfv2j)
+[View Live Demo](https://vercel.com/self-0114/currency-converter-9c4i/22QM7tfp8n2uyhnV2M3krogYfv2j](https://currency-converter-9c4i-git-main-self-0114.vercel.app/)
 
 ## ✨ Features
 
